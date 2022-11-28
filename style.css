@@ -37,6 +37,10 @@ h3, h4 {
     color: #f1f9ff;
 }
 
+h2 {
+    padding: 1em;
+}
+
 p {
     line-height: 2.0;
     font-size: 15px;
